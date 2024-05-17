@@ -1,6 +1,6 @@
 # Building Agents with gpt-4o
 
-This cookbook shows how to build agents with gpt-4o
+This project shows how to build agents with gpt-4o
 
 > Note: Fork and clone this repository if needed
 
